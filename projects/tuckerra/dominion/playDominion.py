@@ -10,7 +10,7 @@ import random
 from collections import defaultdict
 
 #Get player names
-player_names = ["Annie","*Ben","*Carla"]
+player_names = ["Randy","*Comp1","*Comp2"]
 
 #number of curses and victory cards
 if len(player_names)>2:
